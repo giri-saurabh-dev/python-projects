@@ -1,0 +1,1 @@
+This program checkes the strength of your password. If the password is weak it suggests you what you can add to make it stronger.
